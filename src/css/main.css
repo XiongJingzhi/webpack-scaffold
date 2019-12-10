@@ -1,0 +1,8 @@
+@import "./variables.css";
+@import "normalize.css";
+
+.wrapper {
+  height: var(--height);
+  width: var(--width);
+  background-color: var(--main-bg-color);
+}
